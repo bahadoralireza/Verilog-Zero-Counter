@@ -30,13 +30,13 @@ Design a **15-input Zero Counter** hierarchically using the 7-input and 3-input 
 ## Repository Structure
 
 ```
-Part2.v
-Part2_TB.v
-Part3.v
-Part4.v
-Part5.v
-Part6.v
-Part7.v
+switch_level_zc.v
+switch_level_tb.v
+gate_level_zc.v
+assign_level_zc.v
+zc7_structural.v
+zc7_assign.v
+zc15.v
 ```
 
 ## Development Tools
